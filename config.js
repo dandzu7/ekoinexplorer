@@ -2,9 +2,9 @@ var api = "http://139.180.184.63:8197/";
 var apiList = [
 	"http://139.180.184.63:8197/"
 	];
-var blockTargetInterval = 60;
+var blockTargetInterval = 90;
 var coinUnits = 100000000;
-var symbol = 'QWC';
+var symbol = 'EKO';
 var refreshDelay = 30000;
 var addressPattern = new RegExp("^QWC[123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz]{95}$");
 // pools stats by MainCoins
